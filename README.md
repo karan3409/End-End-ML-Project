@@ -11,6 +11,9 @@
 8. update the main.py
 9. update the app.py
 
+# How To Run?
+
+# Steps
 '''bash
 conda create -n mlproj python=3.8 -y
 ''' 
